@@ -1,6 +1,10 @@
 # Base-Apparel-frontendMentor
-Base Apparel coming soon page
+Base Apparel coming soon page;
 
+Projeto feito para fim estudantil. FrontendMentor - NEWBIE
+
+<img src="/images/slide1.png">
+<img src="/images/slide2.png">
 
 ## Apresentação
 
@@ -16,4 +20,8 @@ Seus usuários devem ser capazes de:
   - O campo de entrada está vazio
   - O endereço de e-mail não está formatado corretamente
 
-Baixe o código inicial e vá até o arquivo README.md. Isso fornecerá mais detalhes sobre o projeto. O arquivo style-guide.md é onde você encontrará cores, fontes, etc. 
+
+## Recursos 
+
+- HTML, CSS E JAVASCRIPT.
+- SVG, PNG, JPG IMAGES.
